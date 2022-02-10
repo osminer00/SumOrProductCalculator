@@ -1,0 +1,1 @@
+This program is used to demonstate simple servlets and jsp pages. It uses a java class to do simple sum and product calculations. The program displays this information through jsp files, controlled by servlets, that shows the information on an html page. 
